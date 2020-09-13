@@ -1,6 +1,6 @@
 <?php
 
-// (abstractは、抽象クラスにつける。何がうれしいのかはまだわかってない)
+// (abstractは、抽象クラスにつける。子クラスはメソッドをオーバーライドしないといけなくなる)
 abstract class AbstractDisplay
 {
   // 表示するデータ
